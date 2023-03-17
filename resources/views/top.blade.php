@@ -23,6 +23,12 @@
                   <li class="nav-item">
                     <a class="nav-link active" aria-current="page" href="#">Shotaro_test</a>
                   </li>
+                  <select name="example">
+                    <option>選択肢のサンプル1</option>
+                    <option>選択肢のサンプル2</option>
+                    <option>選択肢のサンプル3</option>
+                    <option>選択肢のサンプル3</option>
+                    </select>
                   <li class="nav-item">
                     <a class="nav-link" href="#">Link</a>
                   </li>
